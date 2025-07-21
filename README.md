@@ -27,7 +27,7 @@ This project analyzes “failed” orders in the Gett ride-hailing system to unc
    - Compute time from order creation to cancellation for with-driver vs. without-driver cases  
    - Compare mean/median times and test for significance
 
-## 🧹 Data Cleaning & Preparation
+## Data Cleaning & Preparation
 
 - Parsed timestamps into datetime and extracted `order_hour`  
 - Dropped incomplete or malformed records  
